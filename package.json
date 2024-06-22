@@ -1,7 +1,7 @@
 {
   "name": "@sendincaio/eslint-config",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "ESLint configuration used by Caio Sendin.",
   "main": "index.js",
   "license": "MIT",
